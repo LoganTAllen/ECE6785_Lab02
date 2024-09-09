@@ -2,3 +2,5 @@
 *-asciinema
 *.pid
 *-profile
+.vscode/
+**/build/
